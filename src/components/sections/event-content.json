@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_sections_event_contents",
+  "info": {
+    "displayName": "EventContent",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "isShow": {
+      "type": "boolean",
+      "default": true
+    },
+    "title": {
+      "type": "string"
+    },
+    "speakers": {
+      "displayName": "speakers",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.speakers"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_sponsored_bies",
+  "info": {
+    "displayName": "SponsoredBy",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "isShow": {
+      "type": "boolean",
+      "default": true
+    },
+    "sponsors": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

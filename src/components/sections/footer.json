@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sections_footers",
+  "info": {
+    "displayName": "Footer"
+  },
+  "options": {},
+  "attributes": {
+    "isShow": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}

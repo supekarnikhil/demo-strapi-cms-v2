@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_components_highlights",
+  "info": {
+    "displayName": "highlights"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "count": {
+      "type": "string"
+    }
+  }
+}

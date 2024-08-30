@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_sections_our_stats",
+  "info": {
+    "displayName": "OurStats",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "isShow": {
+      "type": "boolean",
+      "default": true
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "shortDesc": {
+      "type": "string"
+    },
+    "highlights": {
+      "displayName": "highlights",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.highlights"
+    }
+  }
+}

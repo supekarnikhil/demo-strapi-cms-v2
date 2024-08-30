@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sections_about_events",
+  "info": {
+    "displayName": "AboutEvent"
+  },
+  "options": {},
+  "attributes": {
+    "isShow": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}

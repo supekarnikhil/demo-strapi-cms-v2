@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_sections_faqs",
+  "info": {
+    "displayName": "Faq",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "isShow": {
+      "type": "boolean",
+      "default": true
+    },
+    "title": {
+      "type": "string"
+    },
+    "shortDesc": {
+      "type": "string"
+    },
+    "faqs": {
+      "displayName": "faqs",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.faqs"
+    }
+  }
+}
